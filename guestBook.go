@@ -77,4 +77,4 @@ func main() {
 }
 
 // http://localhost:8080/guestbook
-// paste in your brawser
+// paste in your browser
